@@ -1,0 +1,280 @@
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.exe.config
+E:\Development\Services\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.csprojResolveAssemblyReference.cache
+E:\Development\Services\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.ProjectInstaller.resources
+E:\Development\Services\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.csproj.GenerateResource.Cache
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.exe
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.pdb
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\DnsClient.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Bson.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Owin.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Common.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Interfaces.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.OrmLite.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Redis.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.ServiceInterface.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Text.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.Buffers.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.Memory.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.ValueTuple.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.Web.Cors.dll
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\DnsClient.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Bson.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.pdb
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.Buffers.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.Memory.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\bin\Debug\System.ValueTuple.xml
+E:\Development\Services\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.exe
+E:\Development\Services\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.pdb
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.exe.config
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.exe
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.pdb
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.exe
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.pdb
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\DnsClient.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Bson.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Owin.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Common.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Redis.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.ServiceInterface.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Text.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.Buffers.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.Memory.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.ValueTuple.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.Web.Cors.dll
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\DnsClient.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Bson.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.Buffers.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.Memory.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\bin\Debug\System.ValueTuple.xml
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.csprojResolveAssemblyReference.cache
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.ProjectInstaller.resources
+C:\Users\faizan.karimi\Documents\Visual Studio 2015\Projects\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.csproj.GenerateResource.Cache
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\CoinCapParserService.exe.config
+E:\Development\coin365-parser-windows-service\CoinCapParserService\obj\Debug\CoinCapParserService.exe
+E:\Development\coin365-parser-windows-service\CoinCapParserService\obj\Debug\CoinCapParserService.pdb
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\CoinCapParserService.exe
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\CoinCapParserService.pdb
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\DnsClient.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\MongoDB.Bson.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\MongoDB.Driver.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Newtonsoft.Json.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Owin.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\ServiceStack.Common.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\ServiceStack.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\ServiceStack.Interfaces.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\ServiceStack.OrmLite.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\ServiceStack.Redis.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\ServiceStack.ServiceInterface.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\ServiceStack.Text.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.Buffers.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.Memory.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.ValueTuple.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.Web.Cors.dll
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\DnsClient.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\MongoDB.Bson.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\MongoDB.Driver.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Newtonsoft.Json.pdb
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\Newtonsoft.Json.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.Buffers.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.Memory.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\bin\Debug\System.ValueTuple.xml
+E:\Development\coin365-parser-windows-service\CoinCapParserService\obj\Debug\CoinCapParserService.csprojResolveAssemblyReference.cache
+E:\Development\coin365-parser-windows-service\CoinCapParserService\obj\Debug\CoinCapParserService.ProjectInstaller.resources
+E:\Development\coin365-parser-windows-service\CoinCapParserService\obj\Debug\CoinCapParserService.csproj.GenerateResource.Cache
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.exe.config
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.exe
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.pdb
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.exe
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\CoinCapParserService.pdb
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\DnsClient.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Bson.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Owin.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Common.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Interfaces.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.OrmLite.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Redis.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.ServiceInterface.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\ServiceStack.Text.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.Buffers.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.Memory.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.ValueTuple.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.Web.Cors.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\DnsClient.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Bson.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.pdb
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\Newtonsoft.Json.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.Buffers.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.Memory.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\System.ValueTuple.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.ProjectInstaller.resources
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.csproj.GenerateResource.Cache
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\HtmlAgilityPack.dll
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\HtmlAgilityPack.pdb
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\bin\Debug\HtmlAgilityPack.xml
+C:\Betway\Coin365\CoinCapParserService\CoinCapParserService\obj\Debug\CoinCapParserService.csprojResolveAssemblyReference.cache
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\CoinCapParserService.exe.config
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\obj\Debug\CoinCapParserService.exe
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\obj\Debug\CoinCapParserService.pdb
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\CoinCapParserService.exe
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\CoinCapParserService.pdb
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\DnsClient.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\HtmlAgilityPack.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\MongoDB.Bson.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\MongoDB.Driver.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Newtonsoft.Json.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Owin.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\StackExchange.Redis.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.Buffers.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.Memory.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.ValueTuple.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.Web.Cors.dll
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\DnsClient.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\HtmlAgilityPack.pdb
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\HtmlAgilityPack.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Microsoft.Owin.Security.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\MongoDB.Bson.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\MongoDB.Driver.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\MongoDB.Driver.Core.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Newtonsoft.Json.pdb
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\Newtonsoft.Json.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\StackExchange.Redis.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.Buffers.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.Memory.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\bin\Debug\System.ValueTuple.xml
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\obj\Debug\CoinCapParserService.csprojResolveAssemblyReference.cache
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\obj\Debug\CoinCapParserService.ProjectInstaller.resources
+C:\Betway\Coin365\CoinCapService\CoinCapParserService\obj\Debug\CoinCapParserService.csproj.GenerateResource.Cache
